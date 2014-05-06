@@ -3,7 +3,6 @@ from scrapy.http import Request,FormRequest
 from scrapy.spider import Spider
 from scrapy.selector import Selector
 
-
 from scrapy.item import Item, Field
 
 class zhaopinItem(Item):
